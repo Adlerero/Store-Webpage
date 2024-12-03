@@ -136,3 +136,19 @@ body {
   background-color: #f8f9fa;
   padding: 4rem 0;
 }
+
+.card {
+  background-color: #FFF8DC !important;
+}
+.btn-primary {
+  background-color: var(--primary-brown) !important;
+  border-color: var(--primary-brown) !important;
+}
+.btn-primary:hover {
+  background-color: var(--secondary-brown) !important;
+  border-color: var(--secondary-brown) !important;
+}
+.form-check-input:checked {
+  background-color: var(--primary-brown) !important;
+  border-color: var(--primary-brown) !important;
+}
